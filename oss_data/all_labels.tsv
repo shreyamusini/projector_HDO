@@ -95,11 +95,11 @@ Proteome	HDM_004
 Proteome	HDM_001
 Proteome	HDM_002
 Proteome	HDM_003
-Proteome	HDM_003
-Proteome	HDM_004
-Proteome	HDM_002
+Proteome	HDM_006
 Proteome	HDM_001
-Proteome	HDM_006
+Proteome	HDM_003
+Proteome	HDM_004
+Proteome	HDM_002
 Proteome	HDM_005
 Proteome	HDM_003
 Proteome	HDM_002
@@ -121,12 +121,12 @@ Metabolome Blood	HDM_004
 Metabolome Blood	HDM_001
 Metabolome Blood	HDM_002
 Metabolome Blood	HDM_003
-Metabolome Blood	HDM_003
-Metabolome Blood	HDM_004
-Metabolome Blood	HDM_002
-Metabolome Blood	HDM_005
+Metabolome Blood	HDM_006
 Metabolome Blood	HDM_001
-Metabolome Blood	HDM_006
+Metabolome Blood	HDM_005
+Metabolome Blood	HDM_003
+Metabolome Blood	HDM_004
+Metabolome Blood	HDM_002
 Metabolome Blood	HDM_003
 Metabolome Blood	HDM_002
 Metabolome Blood	HDM_004
@@ -168,12 +168,12 @@ Mircobiome Abundance	HDM_001
 Mircobiome Abundance	HDM_004
 Mircobiome Abundance	HDM_002
 Mircobiome Abundance	HDM_003
-Mircobiome Abundance	HDM_005
-Mircobiome Abundance	HDM_004
-Mircobiome Abundance	HDM_001
-Mircobiome Abundance	HDM_003
-Mircobiome Abundance	HDM_002
 Mircobiome Abundance	HDM_006
+Mircobiome Abundance	HDM_002
+Mircobiome Abundance	HDM_003
+Mircobiome Abundance	HDM_001
+Mircobiome Abundance	HDM_004
+Mircobiome Abundance	HDM_005
 Mircobiome Abundance	HDM_004
 Mircobiome Abundance	HDM_002
 Mircobiome Abundance	HDM_001
