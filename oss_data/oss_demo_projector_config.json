@@ -1,40 +1,46 @@
 {
   "embeddings": [
     {
-      "tensorName": "Word2Vec 10K",
-      "tensorShape": [10000, 200],
-      "tensorPath": "oss_data/word2vec_10000_200d_tensors.bytes",
-      "metadataPath": "oss_data/word2vec_10000_200d_labels.tsv"
+      "tensorName": "HDM_001 Embeddings",
+      "tensorShape": [26, 3072],
+      "tensorPath": "oss_data/embeddings_HDM_001.tsv",
+      "metadataPath": "oss_data/labels_HDM_001.tsv"
     },
     {
-      "tensorName": "Word2Vec All",
-      "tensorShape": [71291, 200],
-      "tensorPath": "oss_data/word2vec_full_200d_tensors.bytes",
-      "metadataPath": "oss_data/word2vec_full_200d_labels.tsv",
-      "bookmarksPath": "oss_data/word2vec_full_bookmarks.txt"
+      "tensorName": "HDM_002 Embeddings",
+      "tensorShape": [51, 3072],
+      "tensorPath": "oss_data/embeddings_HDM_002.tsv",
+      "metadataPath": "oss_data/labels_HDM_002.tsv"
     },
     {
-      "tensorName": "Mnist with images",
-      "tensorShape": [10000, 784],
-      "tensorPath": "oss_data/mnist_10k_784d_tensors.bytes",
-      "metadataPath": "oss_data/mnist_10k_784d_labels.tsv",
-      "sprite": {
-        "imagePath": "oss_data/mnist_10k_sprite.png",
-        "singleImageDim": [28, 28]
-      }
+      "tensorName": "HDM_003 Embeddings",
+      "tensorShape": [38, 3072],
+      "tensorPath": "oss_data/embeddings_HDM_003.tsv",
+      "metadataPath": "oss_data/labels_HDM_003.tsv"
     },
     {
-      "tensorName": "Iris",
-      "tensorShape": [150, 4],
-      "tensorPath": "oss_data/iris_tensors.bytes",
-      "metadataPath": "oss_data/iris_labels.tsv"
+     "tensorName": "HDM_004 Embeddings",
+      "tensorShape": [33, 3072],
+      "tensorPath": "oss_data/embeddings_HDM_004.tsv",
+      "metadataPath": "oss_data/labels_HDM_004.tsv"
     },
     {
-      "tensorName": "GNMT Interlingua",
-      "tensorShape": [9978, 1024],
-      "tensorPath": "oss_data/bnmt_enjako_interlingua_10k_1024_tensors.bytes",
-      "metadataPath": "oss_data/bnmt_enjako_interlingua_10k_1024_metadata.tsv",
-      "bookmarksPath": "oss_data/bnmt_enjako_interlingua_10k_1024_bookmarks.txt"
+      "tensorName": "HDM_005 Embeddings",
+      "tensorShape": [50, 3072],
+      "tensorPath": "oss_data/embeddings_HDM_005.tsv",
+      "metadataPath": "oss_data/labels_HDM_005.tsv"
+    },
+    {
+      "tensorName": "HDM_006 Embeddings",
+      "tensorShape": [50, 3072],
+      "tensorPath": "oss_data/embeddings_HDM_006.tsv",
+      "metadataPath": "oss_data/labels_HDM_006.tsv"
+    },
+    {
+      "tensorName": "All Patients Embeddings",
+      "tensorShape": [236, 3072],
+      "tensorPath": "oss_data/all_vectors.tsv",
+      "metadataPath": "oss_data/all_patients_users.tsv"
     }
   ],
   "modelCheckpointPath": "Demo datasets"
