@@ -40,7 +40,7 @@
       "tensorName": "All Patients Embeddings",
       "tensorShape": [236, 3072],
       "tensorPath": "oss_data/all_vectors.tsv",
-      "metadataPath": "oss_data/all_patients_users.tsv"
+      "metadataPath": "oss_data/all_labels.tsv"
     }
   ],
   "modelCheckpointPath": "Demo datasets"
