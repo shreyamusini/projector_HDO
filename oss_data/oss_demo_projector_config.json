@@ -2,43 +2,43 @@
   "embeddings": [
     {
       "tensorName": "HDM_001 Embeddings",
-      "tensorShape": [26, 256],
+      "tensorShape": [26, 3072],
       "tensorPath": "oss_data/embeddings_HDM_001.tsv",
       "metadataPath": "oss_data/labels_HDM_001.tsv"
     },
     {
       "tensorName": "HDM_002 Embeddings",
-      "tensorShape": [51, 256],
+      "tensorShape": [51, 3072],
       "tensorPath": "oss_data/embeddings_HDM_002.tsv",
       "metadataPath": "oss_data/labels_HDM_002.tsv"
     },
     {
       "tensorName": "HDM_003 Embeddings",
-      "tensorShape": [38, 256],
+      "tensorShape": [38, 3072],
       "tensorPath": "oss_data/embeddings_HDM_003.tsv",
       "metadataPath": "oss_data/labels_HDM_003.tsv"
     },
     {
      "tensorName": "HDM_004 Embeddings",
-      "tensorShape": [33, 256],
+      "tensorShape": [33, 3072],
       "tensorPath": "oss_data/embeddings_HDM_004.tsv",
       "metadataPath": "oss_data/labels_HDM_004.tsv"
     },
     {
       "tensorName": "HDM_005 Embeddings",
-      "tensorShape": [50, 256],
+      "tensorShape": [50, 3072],
       "tensorPath": "oss_data/embeddings_HDM_005.tsv",
       "metadataPath": "oss_data/labels_HDM_005.tsv"
     },
     {
       "tensorName": "HDM_006 Embeddings",
-      "tensorShape": [38, 256],
+      "tensorShape": [38, 3072],
       "tensorPath": "oss_data/embeddings_HDM_006.tsv",
       "metadataPath": "oss_data/labels_HDM_006.tsv"
     },
     {
       "tensorName": "All Patients Embeddings",
-      "tensorShape": [236, 256],
+      "tensorShape": [236, 3072],
       "tensorPath": "oss_data/all_vectors.tsv",
       "metadataPath": "oss_data/all_patients_users.tsv"
     }
