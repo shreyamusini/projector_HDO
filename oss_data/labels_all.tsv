@@ -1,0 +1,236 @@
+Dieta_Mediterranea	HDM_001	3
+Dieta_Mediterranea	HDM_001	6
+Dieta_Mediterranea	HDM_002	0
+Dieta_Mediterranea	HDM_002	4
+Dieta_Mediterranea	HDM_002	7
+Dieta_Mediterranea	HDM_002	7
+Dieta_Mediterranea	HDM_002	13
+Dieta_Mediterranea	HDM_002	16
+Dieta_Mediterranea	HDM_002	18
+Dieta_Mediterranea	HDM_003	0
+Dieta_Mediterranea	HDM_003	3
+Dieta_Mediterranea	HDM_003	7
+Dieta_Mediterranea	HDM_003	13
+Dieta_Mediterranea	HDM_003	19
+Dieta_Mediterranea	HDM_004	6
+Dieta_Mediterranea	HDM_004	13
+Dieta_Mediterranea	HDM_004	20
+Dieta_Mediterranea	HDM_005	0
+Dieta_Mediterranea	HDM_005	3
+Dieta_Mediterranea	HDM_005	6
+Dieta_Mediterranea	HDM_005	7
+Dieta_Mediterranea	HDM_005	10
+Dieta_Mediterranea	HDM_005	13
+Dieta_Mediterranea	HDM_005	13
+Dieta_Mediterranea	HDM_005	17
+Dieta_Mediterranea	HDM_005	20
+Dieta_Mediterranea	HUF_006	0
+Dieta_Mediterranea	HUF_006	3
+Dieta_Mediterranea	HUF_006	6
+Dieta_Mediterranea	HUF_006	8
+Dieta_Mediterranea	HUF_006	12
+GHQ28	HDM_001	3
+GHQ28	HDM_001	6
+GHQ28	HDM_002	0
+GHQ28	HDM_002	4
+GHQ28	HDM_002	7
+GHQ28	HDM_002	13
+GHQ28	HDM_002	16
+GHQ28	HDM_002	18
+GHQ28	HDM_002	18
+GHQ28	HDM_003	0
+GHQ28	HDM_003	3
+GHQ28	HDM_003	7
+GHQ28	HDM_003	13
+GHQ28	HDM_003	19
+GHQ28	HDM_004	6
+GHQ28	HDM_004	13
+GHQ28	HDM_004	20
+GHQ28	HDM_005	0
+GHQ28	HDM_005	3
+GHQ28	HDM_005	7
+GHQ28	HDM_005	10
+GHQ28	HDM_005	13
+GHQ28	HDM_005	17
+GHQ28	HDM_005	20
+GHQ28	HUF_006	0
+GHQ28	HUF_006	3
+GHQ28	HUF_006	6
+GHQ28	HUF_006	8
+GHQ28	HUF_006	8
+GHQ28	HUF_006	12
+EORTC_QLQ_C30	HDM_001	6
+EORTC_QLQ_C30	HDM_002	4
+EORTC_QLQ_C30	HDM_002	7
+EORTC_QLQ_C30	HDM_002	13
+EORTC_QLQ_C30	HDM_002	16
+EORTC_QLQ_C30	HDM_002	18
+EORTC_QLQ_C30	HDM_003	3
+EORTC_QLQ_C30	HDM_003	7
+EORTC_QLQ_C30	HDM_003	13
+EORTC_QLQ_C30	HDM_003	19
+EORTC_QLQ_C30	HDM_004	6
+EORTC_QLQ_C30	HDM_004	13
+EORTC_QLQ_C30	HDM_004	20
+EORTC_QLQ_C30	HDM_005	0
+EORTC_QLQ_C30	HDM_005	3
+EORTC_QLQ_C30	HDM_005	7
+EORTC_QLQ_C30	HDM_005	10
+EORTC_QLQ_C30	HDM_005	13
+EORTC_QLQ_C30	HDM_005	17
+EORTC_QLQ_C30	HDM_005	20
+EORTC_QLQ_C30	HUF_006	0
+EORTC_QLQ_C30	HUF_006	3
+EORTC_QLQ_C30	HUF_006	6
+EORTC_QLQ_C30	HUF_006	12
+Proteome	HDM_003	BASAL
+Proteome	HDM_001	BASAL
+Proteome	HDM_005	BASAL
+Proteome	HDM_004	BASAL
+Proteome	HDM_002	BASAL
+Proteome	HDM_006	BASAL
+Proteome	HDM_006	3
+Proteome	HDM_005	3
+Proteome	HDM_004	3
+Proteome	HDM_001	3
+Proteome	HDM_002	3
+Proteome	HDM_003	3
+Proteome	HDM_006	6
+Proteome	HDM_001	6
+Proteome	HDM_003	6
+Proteome	HDM_004	6
+Proteome	HDM_002	6
+Proteome	HDM_005	7
+Proteome	HDM_003	9
+Proteome	HDM_002	9
+Proteome	HDM_004	12
+Proteome	HDM_005	12
+Proteome	HDM_002	12
+Proteome	HDM_002	P15
+Proteome	HDM_006	P8
+Proteome	HDM_005	P9
+Metabolome Blood	HDM_003	BASAL
+Metabolome Blood	HDM_001	BASAL
+Metabolome Blood	HDM_005	BASAL
+Metabolome Blood	HDM_004	BASAL
+Metabolome Blood	HDM_002	BASAL
+Metabolome Blood	HDM_006	BASAL
+Metabolome Blood	HDM_006	3
+Metabolome Blood	HDM_005	3
+Metabolome Blood	HDM_004	3
+Metabolome Blood	HDM_001	3
+Metabolome Blood	HDM_002	3
+Metabolome Blood	HDM_003	3
+Metabolome Blood	HDM_006	6
+Metabolome Blood	HDM_001	6
+Metabolome Blood	HDM_005	6
+Metabolome Blood	HDM_003	6
+Metabolome Blood	HDM_004	6
+Metabolome Blood	HDM_002	6
+Metabolome Blood	HDM_003	9
+Metabolome Blood	HDM_002	9
+Metabolome Blood	HDM_004	12
+Metabolome Blood	HDM_005	12
+Metabolome Blood	HDM_002	12
+Metabolome Blood	HDM_002	P15
+Metabolome Blood	HDM_006	P8
+Metabolome Blood	HDM_005	P9
+Blood Work	HDM_001	BASAL
+Blood Work	HDM_002	BASAL
+Blood Work	HDM_003	BASAL
+Blood Work	HDM_004	BASAL
+Blood Work	HDM_005	BASAL
+Blood Work	HDM_006	BASAL
+Blood Work	HDM_001	3
+Blood Work	HDM_002	3
+Blood Work	HDM_003	3
+Blood Work	HDM_004	3
+Blood Work	HDM_005	3
+Blood Work	HDM_006	3
+Blood Work	HDM_001	6
+Blood Work	HDM_002	6
+Blood Work	HDM_003	6
+Blood Work	HDM_004	6
+Blood Work	HDM_005	6
+Blood Work	HDM_006	6
+Blood Work	HDM_002	12
+Blood Work	HDM_003	12
+Blood Work	HDM_004	12
+Blood Work	HDM_005	12
+Blood Work	HDM_002	IMPREV
+Blood Work	HDM_005	IMPREV
+Blood Work	HDM_002	IMPREV
+Blood Work	HDM_006	IMPREV
+Blood Work	HDM_002	IMPREV
+Mircobiome Abundance	HDM_006	BASAL
+Mircobiome Abundance	HDM_005	BASAL
+Mircobiome Abundance	HDM_001	BASAL
+Mircobiome Abundance	HDM_004	BASAL
+Mircobiome Abundance	HDM_002	BASAL
+Mircobiome Abundance	HDM_003	BASAL
+Mircobiome Abundance	HDM_006	3
+Mircobiome Abundance	HDM_002	3
+Mircobiome Abundance	HDM_003	3
+Mircobiome Abundance	HDM_001	3
+Mircobiome Abundance	HDM_004	3
+Mircobiome Abundance	HDM_005	3
+Mircobiome Abundance	HDM_004	6
+Mircobiome Abundance	HDM_002	6
+Mircobiome Abundance	HDM_001	6
+Mircobiome Abundance	HDM_003	6
+Mircobiome Abundance	HDM_005	7
+Mircobiome Abundance	HDM_002	9
+Important Features Clinical	HDM_001	3
+Important Features Clinical	HDM_002	3
+Important Features Clinical	HDM_003	3
+Important Features Clinical	HDM_004	3
+Important Features Clinical	HDM_005	3
+Important Features Clinical	HUF_006	3
+Important Features Clinical	HDM_001	3
+Important Features Clinical	HDM_002	3
+Important Features Clinical	HDM_003	3
+Important Features Clinical	HDM_004	3
+Important Features Clinical	HDM_005	3
+Important Features Clinical	HUF_006	3
+Important Features Clinical	HDM_001	3
+Important Features Clinical	HDM_002	3
+Important Features Clinical	HDM_003	3
+Important Features Clinical	HDM_004	3
+Important Features Clinical	HDM_005	3
+Important Features Clinical	HUF_006	3
+Less Important Features Clinical	HDM_001	3
+Less Important Features Clinical	HDM_002	3
+Less Important Features Clinical	HDM_003	3
+Less Important Features Clinical	HDM_004	3
+Less Important Features Clinical	HDM_005	3
+Less Important Features Clinical	HUF_006	3
+Less Important Features Clinical	HDM_001	3
+Less Important Features Clinical	HDM_002	3
+Less Important Features Clinical	HDM_003	3
+Less Important Features Clinical	HDM_004	3
+Less Important Features Clinical	HDM_005	3
+Less Important Features Clinical	HUF_006	3
+Less Important Features Clinical	HDM_001	3
+Less Important Features Clinical	HDM_002	3
+Less Important Features Clinical	HDM_003	3
+Less Important Features Clinical	HDM_004	3
+Less Important Features Clinical	HDM_005	3
+Less Important Features Clinical	HUF_006	3
+Least Important Features Clinical	HDM_001	3
+Least Important Features Clinical	HDM_002	3
+Least Important Features Clinical	HDM_003	3
+Least Important Features Clinical	HDM_004	3
+Least Important Features Clinical	HDM_005	3
+Least Important Features Clinical	HUF_006	3
+Least Important Features Clinical	HDM_001	3
+Least Important Features Clinical	HDM_002	3
+Least Important Features Clinical	HDM_003	3
+Least Important Features Clinical	HDM_004	3
+Least Important Features Clinical	HDM_005	3
+Least Important Features Clinical	HUF_006	3
+Least Important Features Clinical	HDM_001	3
+Least Important Features Clinical	HDM_002	3
+Least Important Features Clinical	HDM_003	3
+Least Important Features Clinical	HDM_004	3
+Least Important Features Clinical	HDM_005	3
+Least Important Features Clinical	HUF_006	3
