@@ -73,10 +73,10 @@
       "metadataPath": "oss_data/labels_combined_HDM_005.tsv"
     },
     {
-      "tensorName": "HDM_005 Patient Trajectory",
+      "tensorName": "HDM_006 Patient Trajectory",
       "tensorShape": [4, 2560],
-      "tensorPath": "oss_data/combined_embeddings_HDM_005.tsv",
-      "metadataPath": "oss_data/labels_combined_HDM_005.tsv"
+      "tensorPath": "oss_data/combined_embeddings_HDM_006.tsv",
+      "metadataPath": "oss_data/labels_combined_HDM_006.tsv"
     }
   ],
   "modelCheckpointPath": "Demo datasets"
