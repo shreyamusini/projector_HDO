@@ -43,10 +43,40 @@
       "metadataPath": "oss_data/all_labels_2.tsv"
     },
     {
-      "tensorName": "HDM_001 Short Embeddings",
-      "tensorShape": [26, 256],
-      "tensorPath": "oss_data/embeddings_short/embeddings_HDM_001.tsv",
-      "metadataPath": "oss_data/labels_HDM_001.tsv"
+      "tensorName": "HDM_001 Patient Trajectory",
+      "tensorShape": [4, 2560],
+      "tensorPath": "oss_data/combined_embeddings_HDM_001.tsv",
+      "metadataPath": "oss_data/labels_combined_HDM_001.tsv"
+    },
+    {
+      "tensorName": "HDM_002 Patient Trajectory",
+      "tensorShape": [4, 2560],
+      "tensorPath": "oss_data/combined_embeddings_HDM_002.tsv",
+      "metadataPath": "oss_data/labels_combined_HDM_002.tsv"
+    },
+    {
+      "tensorName": "HDM_003 Patient Trajectory",
+      "tensorShape": [4, 2560],
+      "tensorPath": "oss_data/combined_embeddings_HDM_003.tsv",
+      "metadataPath": "oss_data/labels_combined_HDM_003.tsv"
+    },
+    {
+      "tensorName": "HDM_004 Patient Trajectory",
+      "tensorShape": [4, 2560],
+      "tensorPath": "oss_data/combined_embeddings_HDM_004.tsv",
+      "metadataPath": "oss_data/labels_combined_HDM_004.tsv"
+    },
+    {
+      "tensorName": "HDM_005 Patient Trajectory",
+      "tensorShape": [4, 2560],
+      "tensorPath": "oss_data/combined_embeddings_HDM_005.tsv",
+      "metadataPath": "oss_data/labels_combined_HDM_005.tsv"
+    },
+    {
+      "tensorName": "HDM_005 Patient Trajectory",
+      "tensorShape": [4, 2560],
+      "tensorPath": "oss_data/combined_embeddings_HDM_005.tsv",
+      "metadataPath": "oss_data/labels_combined_HDM_005.tsv"
     }
   ],
   "modelCheckpointPath": "Demo datasets"
