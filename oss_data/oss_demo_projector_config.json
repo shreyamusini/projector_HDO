@@ -41,6 +41,12 @@
       "tensorShape": [236, 3072],
       "tensorPath": "oss_data/all_vectors.tsv",
       "metadataPath": "oss_data/all_labels_2.tsv"
+    },
+    {
+      "tensorName": "HDM_001 Patient Trajectory",
+      "tensorShape": [4, 2560],
+      "tensorPath": "oss_data/combined_embeddings_HDM_001.tsv",
+      "metadataPath": "oss_data/labels_combined_HDM_001.tsv"
     }
   ],
   "modelCheckpointPath": "Demo datasets"
