@@ -40,7 +40,7 @@
       "tensorName": "All Patients Embeddings",
       "tensorShape": [236, 3072],
       "tensorPath": "oss_data/all_vectors.tsv",
-      "metadataPath": "oss_data/all_labels_2.tsv"
+      "metadataPath": "oss_data/all_labels_proj.tsv"
     },
     {
       "tensorName": "HDM_001 Patient Trajectory",
