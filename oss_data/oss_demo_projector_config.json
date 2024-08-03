@@ -77,6 +77,12 @@
       "tensorShape": [4, 2560],
       "tensorPath": "oss_data/combined_embeddings_HDM_006.tsv",
       "metadataPath": "oss_data/labels_combined_HDM_006.tsv"
+    },
+    {
+      "tensorName": "All Patient Trajectory",
+      "tensorShape": [24, 2560],
+      "tensorPath": "oss_data/all_patients_concat_vectors.tsv",
+      "metadataPath": "oss_data/all_paitents_concat_labels.tsv"
     }
   ],
   "modelCheckpointPath": "Demo datasets"
