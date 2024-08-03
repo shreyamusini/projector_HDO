@@ -82,7 +82,7 @@
       "tensorName": "All Patient Trajectory",
       "tensorShape": [24, 2560],
       "tensorPath": "oss_data/all_patients_concat_vectors.tsv",
-      "metadataPath": "oss_data/all_paitents_concat_labels.tsv"
+      "metadataPath": "oss_data/labels_users_traj.tsv"
     }
   ],
   "modelCheckpointPath": "Demo datasets"
