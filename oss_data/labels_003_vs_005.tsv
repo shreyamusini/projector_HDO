@@ -1,0 +1,89 @@
+label	Month	user	month_label
+Dieta_Mediterranea	0	HDM_003	Dieta_Mediterranea, 0
+Dieta_Mediterranea	3	HDM_003	Dieta_Mediterranea, 3
+Dieta_Mediterranea	7	HDM_003	Dieta_Mediterranea, 7
+Dieta_Mediterranea	13	HDM_003	Dieta_Mediterranea, 13
+Dieta_Mediterranea	19	HDM_003	Dieta_Mediterranea, 19
+GHQ28	0	HDM_003	GHQ28, 0
+GHQ28	3	HDM_003	GHQ28, 3
+GHQ28	7	HDM_003	GHQ28, 7
+GHQ28	13	HDM_003	GHQ28, 13
+GHQ28	19	HDM_003	GHQ28, 19
+EORTC_QLQ_C30	3	HDM_003	EORTC_QLQ_C30, 3
+EORTC_QLQ_C30	7	HDM_003	EORTC_QLQ_C30, 7
+EORTC_QLQ_C30	13	HDM_003	EORTC_QLQ_C30, 13
+EORTC_QLQ_C30	19	HDM_003	EORTC_QLQ_C30, 19
+Metabolome Blood	0	HDM_003	Metabolome Blood, 0
+Metabolome Blood	3	HDM_003	Metabolome Blood, 3
+Metabolome Blood	6	HDM_003	Metabolome Blood, 6
+Metabolome Blood	9	HDM_003	Metabolome Blood, 9
+Proteome	0	HDM_003	Proteome, 0
+Proteome	3	HDM_003	Proteome, 3
+Proteome	6	HDM_003	Proteome, 6
+Proteome	9	HDM_003	Proteome, 9
+Mircobiome Abundance	0	HDM_003	Mircobiome Abundance, 0
+Mircobiome Abundance	3	HDM_003	Mircobiome Abundance, 3
+Mircobiome Abundance	6	HDM_003	Mircobiome Abundance, 6
+Important Features Clinical	3	HDM_003	Important Features Clinical, 3
+Important Features Clinical	6	HDM_003	Important Features Clinical, 6
+Important Features Clinical	12	HDM_003	Important Features Clinical, 12
+Less Important Features Clinical	3	HDM_003	Less Important Features Clinical, 3
+Less Important Features Clinical	6	HDM_003	Less Important Features Clinical, 6
+Less Important Features Clinical	12	HDM_003	Less Important Features Clinical, 12
+Least Important Features Clinical	3	HDM_003	Least Important Features Clinical, 3
+Least Important Features Clinical	6	HDM_003	Least Important Features Clinical, 6
+Least Important Features Clinical	12	HDM_003	Least Important Features Clinical, 12
+Blood Work	0	HDM_003	Blood Work, 0
+Blood Work	3	HDM_003	Blood Work, 3
+Blood Work	6	HDM_003	Blood Work, 6
+Blood Work	12	HDM_003	Blood Work, 12
+Dieta_Mediterranea	0	HDM_005	Dieta_Mediterranea, 0
+Dieta_Mediterranea	3	HDM_005	Dieta_Mediterranea, 3
+Dieta_Mediterranea	6	HDM_005	Dieta_Mediterranea, 6
+Dieta_Mediterranea	7	HDM_005	Dieta_Mediterranea, 7
+Dieta_Mediterranea	10	HDM_005	Dieta_Mediterranea, 10
+Dieta_Mediterranea	13	HDM_005	Dieta_Mediterranea, 13
+Dieta_Mediterranea	13	HDM_005	Dieta_Mediterranea, 13
+Dieta_Mediterranea	17	HDM_005	Dieta_Mediterranea, 17
+Dieta_Mediterranea	20	HDM_005	Dieta_Mediterranea, 20
+GHQ28	0	HDM_005	GHQ28, 0
+GHQ28	3	HDM_005	GHQ28, 3
+GHQ28	7	HDM_005	GHQ28, 7
+GHQ28	10	HDM_005	GHQ28, 10
+GHQ28	13	HDM_005	GHQ28, 13
+GHQ28	17	HDM_005	GHQ28, 17
+GHQ28	20	HDM_005	GHQ28, 20
+EORTC_QLQ_C30	0	HDM_005	EORTC_QLQ_C30, 0
+EORTC_QLQ_C30	3	HDM_005	EORTC_QLQ_C30, 3
+EORTC_QLQ_C30	7	HDM_005	EORTC_QLQ_C30, 7
+EORTC_QLQ_C30	10	HDM_005	EORTC_QLQ_C30, 10
+EORTC_QLQ_C30	13	HDM_005	EORTC_QLQ_C30, 13
+EORTC_QLQ_C30	17	HDM_005	EORTC_QLQ_C30, 17
+EORTC_QLQ_C30	20	HDM_005	EORTC_QLQ_C30, 20
+Metabolome Blood	0	HDM_005	Metabolome Blood, 0
+Metabolome Blood	3	HDM_005	Metabolome Blood, 3
+Metabolome Blood	6	HDM_005	Metabolome Blood, 6
+Metabolome Blood	12	HDM_005	Metabolome Blood, 12
+Metabolome Blood	P9	HDM_005	Metabolome Blood, P9
+Proteome	0	HDM_005	Proteome, 0
+Proteome	3	HDM_005	Proteome, 3
+Proteome	7	HDM_005	Proteome, 7
+Proteome	12	HDM_005	Proteome, 12
+Proteome	P9	HDM_005	Proteome, P9
+Mircobiome Abundance	0	HDM_005	Mircobiome Abundance, 0
+Mircobiome Abundance	3	HDM_005	Mircobiome Abundance, 3
+Mircobiome Abundance	7	HDM_005	Mircobiome Abundance, 7
+Important Features Clinical	3	HDM_005	Important Features Clinical, 3
+Important Features Clinical	6	HDM_005	Important Features Clinical, 6
+Important Features Clinical	12	HDM_005	Important Features Clinical, 12
+Less Important Features Clinical	3	HDM_005	Less Important Features Clinical, 3
+Less Important Features Clinical	6	HDM_005	Less Important Features Clinical, 6
+Less Important Features Clinical	12	HDM_005	Less Important Features Clinical, 12
+Least Important Features Clinical	3	HDM_005	Least Important Features Clinical, 3
+Least Important Features Clinical	6	HDM_005	Least Important Features Clinical, 6
+Least Important Features Clinical	12	HDM_005	Least Important Features Clinical, 12
+Blood Work	0	HDM_005	Blood Work, 0
+Blood Work	3	HDM_005	Blood Work, 3
+Blood Work	6	HDM_005	Blood Work, 6
+Blood Work	12	HDM_005	Blood Work, 12
+Blood Work	IMPREV	HDM_005	Blood Work, IMPREV

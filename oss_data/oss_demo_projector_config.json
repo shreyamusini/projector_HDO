@@ -83,6 +83,12 @@
       "tensorShape": [24, 2560],
       "tensorPath": "oss_data/all_patients_concat_vectors.tsv",
       "metadataPath": "oss_data/labels_users_traj.tsv"
+    },
+    {
+      "tensorName": "Patient HDM_003 vs Patient HDM_005",
+      "tensorShape": [88, 3072],
+      "tensorPath": "oss_data/embedding_003_vs_005.tsv",
+      "metadataPath": "oss_data/labels_003_vs_005.tsv"
     }
   ],
   "modelCheckpointPath": "Demo datasets"
