@@ -93,8 +93,8 @@
     {
       "tensorName": "All Patient Trajectory Months 0, 3, 6, 12",
       "tensorShape": [24, 2560],
-      "tensorPath": "oss_data/labels_traj_new.tsv",
-      "metadataPath": "oss_data/all_patients_vectors_traj_new.tsv"
+      "tensorPath": "oss_data/all_patients_vectors_traj_new.tsv",
+      "metadataPath": "oss_data/labels_traj_new.tsv"
     }
   ],
   "modelCheckpointPath": "Demo datasets"
